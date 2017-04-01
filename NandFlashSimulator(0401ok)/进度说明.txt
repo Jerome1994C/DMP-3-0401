@@ -1,3 +1,6 @@
-��� ���ļ���ʽ�� ���� NAND(CHIP)�ļ��ء�
-��� NAND �� ��ID�������ݡ�д���ݡ�������
-����Bitmapģ��
+完成 以文件形式的 单个 NAND(CHIP)的加载。
+完成 NAND 的 读ID、读数据、写数据、擦除。
+添加Bitmap模块
+0401-添加 BBM 模块
+    -添加 YAFFS ECC 模块
+    -添加 上层软件操作函数
