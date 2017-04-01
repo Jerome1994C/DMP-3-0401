@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Driver/Driver.c" open="1" top="0" tabpos="6">
+		<Cursor position="744" topLine="10" />
+	</File>
+	<File name="Driver/Driver.h" open="1" top="0" tabpos="12">
+		<Cursor position="584" topLine="0" />
+	</File>
+	<File name="FTL_BBM/FTL_BBM.c" open="1" top="0" tabpos="11">
+		<Cursor position="3197" topLine="118" />
+	</File>
+	<File name="FTL_BBM/FTL_BBM.h" open="0" top="0" tabpos="0">
+		<Cursor position="172" topLine="0" />
+	</File>
+	<File name="FTL_ECC/FTL_ECC.c" open="1" top="0" tabpos="9">
+		<Cursor position="1216" topLine="19" />
+	</File>
+	<File name="FTL_ECC/FTL_ECC.h" open="1" top="0" tabpos="10">
+		<Cursor position="510" topLine="0" />
+	</File>
+	<File name="FTL_pageOP/FTL_pageOP.c" open="1" top="1" tabpos="1">
+		<Cursor position="1802" topLine="65" />
+	</File>
+	<File name="FTL_pageOP/FTL_pageOP.h" open="1" top="0" tabpos="2">
+		<Cursor position="677" topLine="3" />
+	</File>
+	<File name="FTL_strInclude/FILE_Load.h" open="1" top="0" tabpos="14">
+		<Cursor position="214" topLine="0" />
+	</File>
+	<File name="FTL_strInclude/FTL_Struct.h" open="1" top="0" tabpos="8">
+		<Cursor position="90" topLine="0" />
+	</File>
+	<File name="File/MyFile.c" open="1" top="0" tabpos="13">
+		<Cursor position="975" topLine="32" />
+	</File>
+	<File name="FunctionTest/TestFile.c" open="1" top="0" tabpos="7">
+		<Cursor position="2963" topLine="126" />
+	</File>
+	<File name="Hardware/Hardware.c" open="0" top="0" tabpos="0">
+		<Cursor position="212" topLine="0" />
+	</File>
+	<File name="Hardware/Hardware.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="NandFlash/NandFlash_sim.c" open="1" top="0" tabpos="3">
+		<Cursor position="9687" topLine="347" />
+	</File>
+	<File name="NandFlash/NandFlash_sim.h" open="1" top="0" tabpos="5">
+		<Cursor position="1654" topLine="22" />
+	</File>
+</CodeBlocks_layout_file>
